@@ -20,5 +20,3 @@ function App() {
 }
 
 export default App;
-
-// just doing anything atp
