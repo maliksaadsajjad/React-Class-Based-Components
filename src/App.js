@@ -20,5 +20,3 @@ function App() {
 }
 
 export default App;
-
-// hijo de puta
