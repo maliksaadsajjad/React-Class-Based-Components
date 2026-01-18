@@ -20,3 +20,5 @@ function App() {
 }
 
 export default App;
+
+// i want to switch to a new project but i'm lazy asf rn
